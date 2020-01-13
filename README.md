@@ -15,10 +15,9 @@ Several college's in India  do not have a proper alumni network whereas other na
 
 Names of the students working on the project :
 
-R.Siddath(Team Leader) 		RA17113040082
-M.Aruna				RA17113040040
-C.Rupesh			RA17113040054	
-K.Sujith 			RA17113040152
-Sajjith Ahmed M			RA17113040099
-Sm..R.Ragedhaksha		RA17113040084
+R.Siddath(Team Leader) 		RA17113040082 ||M.Aruna				RA17113040040
+||C.Rupesh			RA17113040054	
+||K.Sujith 			RA17113040152
+||Sajjith Ahmed M			RA17113040099
+||Sm..R.Ragedhaksha		RA17113040084
 	
