@@ -1,0 +1,17 @@
+{
+  "verbose": true,
+  "ignore": [
+    "data",
+    "appDist",
+    "/app/client/src/components",
+    "/app/client/src/reducers",
+    "/app/client/src/actions",
+    "/app/client/public/style",
+    "/adminlte",
+    "/backups",
+    "/uploads",
+    "/test",
+    "/app/serverDist",
+    "/app/sachin"
+  ]
+}
